@@ -7,8 +7,9 @@
 - [x] Tidy ip build process
 - [x] Actually set up a database (Vercel Postgres)
 - [x] Attach database to UI
-- [ ] Add authentication (w/ Clerk)
+- [x] Add authentication (w/ Clerk)
 - [ ] Add image upload
+- [ ] "Taint" (server-only)
 - [ ] Error management (w/ Sentry)
 - [ ] Routing/image pag (parallel route)
 - [ ] Delete button (w/ Server Actions)
