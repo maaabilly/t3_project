@@ -1,3 +1,4 @@
 {
-  "cSpell.words": ["Ratelimiting", "upstash"]
+  "cSpell.words": ["Ratelimiting", "upstash"],
+  "typescript.tsdk": "node_modules/typescript/lib"
 }
